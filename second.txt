@@ -1,0 +1,18 @@
+second:
+
+Actions:
+"Person f lying to the magazine" is an action.
+"Person f not lying to the magazine" is an action.
+
+Mechanisms:
+"Realizing that the magazine is a copy of the article" if "Person f lying to the magazine"
+"Reduction of F credibility" if "Person f lying to the magazine"
+"Failure to publish the article in the journal" if "Person f not lying to the magazine"
+
+Utilities:
+"Person f lying to the magazine" is good
+"Person f not lying to the magazine" is bad
+
+The best choise is "Person f not lying to the magazine" with 2 score.
+
+The intention of this problem for action "lie" is consequence: "Failure to publish the article in the journal".

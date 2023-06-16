@@ -1,0 +1,22 @@
+first:
+
+Actions:
+"Person b lying to the manager" is an action.
+"Person b not lying to the manager" is an action.
+
+Mechanisms:
+"Maintaining the relationship between b and c" if "Person b lying to the manager"
+"Preventing the company from cooperating with an invalid person" if "Person b lying to the manager"
+"A good profit is earned by an invalid person" if "Person b lying to the manager"
+
+"Loss of relationship between b and c" if "Person b not lying to the manager"
+"Preventing the company from cooperating with an invalid person" if "Person b not lying to the manager"
+"The person gets promoted" if "Person b not lying to the manager"
+
+Utilities:
+"Person f lying to the magazine" is good
+"Person f not lying to the magazine" is bad
+
+The best choise is "throwing into water" with 3 score.
+
+The intention of this problem for action "Person f not lying to the magazine" is consequence: "The person gets promoted".
