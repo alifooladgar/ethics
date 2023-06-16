@@ -1,0 +1,17 @@
+Article:
+
+Actions:
+"cheating" is an action.
+"No-cheating" is an action.
+
+Mechanisms:
+"The possibilityoflosingscientificcredit" if "cheating"
+"Riskofrejectingthearticle" if "NO-cheating"
+
+Utilities:
+"cheating" is good
+"No-cheating" is bad
+
+The best choise is "cheating" with 1 score.
+
+The intention of this problem for action "cheating" is consequence: "Thepossibilityoflosingscientificcredit".

@@ -1,0 +1,17 @@
+IT office:
+
+Actions:
+"Disclosureofinformation" is an action.
+"Non-disclosureofinformation" is an action.
+
+Mechanisms:
+"Irreparableconsequences" if "Non-disclosureofinformation"
+"Employeedepartureandprojectdelay" if "lie"
+
+Utilities:
+"Disclosureofinformation" is good
+"Non-disclosureofinformation" is bad
+
+The best choise is "Disclosureofinformation" with 1 score.
+
+The intention of this problem for action "Disclosureofinformation" is consequence: "Employeedepartureandprojectdelay".
